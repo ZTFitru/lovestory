@@ -34,7 +34,7 @@ People say that romance novels are formulaic. Well ... maybe that's true. This a
 
 ### Preview of App 📺:
 
-![Imgur](https://imgur.com/OlDQyDA.gif)
+![site demo](demo.gif)
 
 ### Vist this page
 
